@@ -20,7 +20,7 @@ My portfolio: https://ramosneil.github.io/Ramos-Portfolio/
 
 # Contact Me
 * gmail: ramosneilchristian@gmail.com
-* Github: https://ramosneil.github.io/Ramos-Portfolio/
+* Github: https://github.com/ramosneil/Ramos-Portfolio
 
 
 # Reflection 
